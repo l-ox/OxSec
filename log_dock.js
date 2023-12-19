@@ -1,6 +1,9 @@
+// Modules
 const url = require('url');
 const http = require('http');
 const fs = require('fs');
+
+// Definitions and Variables
 const host = '127.0.0.1';
 const port = 80;
 var keys = ["5jEByz2Igr", "m9qd1PvdW8"];
